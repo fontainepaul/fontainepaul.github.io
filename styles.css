@@ -26,13 +26,16 @@ body {
 }
   
 .sidenav a:link {
+  color: unherit;
   text-decoration: none;
 }
   
 .sidenav a:visited {
+  color: unherit;
   text-decoration: none;
 }
 
 .sidenav a:hover {
+  color: unherit;
   text-decoration: underline;
 }
